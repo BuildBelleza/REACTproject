@@ -1,5 +1,4 @@
-import React, { useState } from 'react';
-import { NavLink } from 'react-router-dom';
+import React from 'react';
 import data from '../mocks/navs.json';
 
 const Header = () => {
